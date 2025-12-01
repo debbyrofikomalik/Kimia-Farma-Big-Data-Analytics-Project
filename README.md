@@ -17,7 +17,7 @@ Using real-world Kimia Farma sales data, the project transforms raw and fragment
 ## 🛠️ Tools
 - **SQL (BigQuery):** Performed data quality checks (duplicates, missing values), table joins, and data aggregation.  
 - **Python (Jupyter Notebook):** Conducted sanity checks using descriptive statistics, histograms, and boxplots.  
-- **Looker Studio:** Built and refined an interactive dashboard for data storytelling and sales insight visualization.
+- **Looker Studio:** Built and refined an interactive dashboard for data storytelling and business insight visualization.
 
 ---
 

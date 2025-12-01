@@ -1,2 +1,55 @@
-# Kimia-Farma-Big-Data-Analytics-Project
-Project-based internship with Rakamin in collaboration with Kimia Farma, focusing on big data analytics by leveraging SQL (BigQuery), Python, and Looker Studio to analyze pharmaceutical sales data and deliver actionable insights through interactive dashboards.
+# Kimia Farma Big Data Analytics Project
+
+## 🚀 Overview
+This project, conducted as part of the Project-Based Internship (PBI) by Rakamin Academy in collaboration with Kimia Farma, aims to deliver key Big Data Analytics insights to improve sales performance and support strategic decision-making in the pharmaceutical sector.  
+Using real-world Kimia Farma sales data, the project transforms raw and fragmented datasets into actionable business intelligence, culminating in a dynamic and interactive sales dashboard.
+
+---
+
+## 📊 Project Highlights
+- Executed comprehensive data sanity checks in **BigQuery**, assessing duplicates and missing values.  
+- Integrated and aggregated multiple datasets (`kf_final_transaction`, `kf_products`, `kf_kantor_cabang`) to build a robust, analysis-ready dataset.  
+- Conducted second-round data validation in **Python** using descriptive statistics, histograms, and boxplots to detect irregularities and potential outliers.  
+- Designed and deployed an interactive **Looker Studio** dashboard to translate complex datasets into clear and actionable business insights.
+
+---
+
+## 🛠️ Tools
+- **SQL (BigQuery):** Performed data quality checks (duplicates, missing values), table joins, and data aggregation.  
+- **Python (Jupyter Notebook):** Conducted sanity checks using descriptive statistics, histograms, and boxplots.  
+- **Looker Studio:** Built and refined an interactive dashboard for data storytelling and sales insight visualization.
+
+---
+
+## 📎 Folder Structure
+| Folder / File | Description |
+|---------------|-------------|
+| `sql/` | SQL queries for cleaning, joining, and aggregation |
+| `notebook/Kimia Farma - Final Project - Data Sanity Check.ipynb` | Python notebook for sanity checks (boxplot, histogram) |
+| `Final Task_Kimia Farma_Big Data Analytics_Debby Rofiko Malik.pptx` | Final presentation file |
+| `README.md` | Project documentation |
+
+---
+
+## 📈 Dashboard  
+🔗 **[View Looker Studio Dashboard](https://lookerstudio.google.com/reporting/c8440d76-f658-4be4-aeb4-7e0fb8c1e7a6)**
+
+---
+
+## 📸 Dashboard Preview  
+<p float="left">
+  <img src="https://drive.google.com/uc?export=view&id=1h4rAZddXmR-Z70od3P3sB84ewo0MmUs2" width="32%" />
+  <img src="https://drive.google.com/uc?export=view&id=1Vix9gbEj2lVN972-eVuCQDhlGXTli7-H" width="32%" />
+  <img src="https://drive.google.com/uc?export=view&id=1jFvgIOMmaWGYbMKs_gAriBAu2oyFEXZf" width="32%" />
+</p>
+
+---
+
+### 📫 Contact
+For inquiries or collaborations, feel free to reach out:  
+**Debby Rofiko Malik** – [LinkedIn](https://www.linkedin.com/in/debby-rofiko-malik/) | [Email](mailto:debbymalik21@gmail.com)
+
+---
+
+### 🏷️ Tags  
+Big Data • SQL • Looker Studio • Analytics • Kimia Farma • Rakamin • Pharmaceutical Industry

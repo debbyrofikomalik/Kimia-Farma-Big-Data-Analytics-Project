@@ -22,12 +22,13 @@ Using real-world Kimia Farma sales data, the project transforms raw and fragment
 ---
 
 ## 📎 Folder Structure
-| Folder / File | Description |
-|---------------|-------------|
-| `SQL/` | SQL queries for cleaning, joining, and aggregation |
-| `Notebook (Python)/Kimia Farma - Final Project - Data Sanity Check.ipynb` | Python notebook for sanity checks (boxplot, histogram) |
-| `Final Task_Kimia Farma_Big Data Analytics_Debby Rofiko Malik.pptx` | Final presentation file |
-| `README.md` | Project documentation |
+
+| Folder | Files | Description |
+|--------|--------|-------------|
+| `sql/` | `main_query.sql` <br> `data_quality_check.sql` | SQL queries for joining, aggregation, and data quality checks |
+| `notebook/` | `Kimia Farma - Final Project - Data Sanity Check.ipynb` | Python notebook for sanity checks (stats, histogram, boxplot) |
+| `presentation/` | `Final Task_Kimia Farma_Big Data Analytics_Debby Rofiko Malik.pptx` | Final presentation slide |
+| `README.md` | — | Project documentation |
 
 ---
 

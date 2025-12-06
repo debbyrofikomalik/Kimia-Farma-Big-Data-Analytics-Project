@@ -39,7 +39,7 @@ Using real-world Kimia Farma sales data, the project transforms raw and fragment
 
 ## 📸 Dashboard Preview  
 <p float="left">
-  <img src="https://drive.google.com/uc?export=view&id=1h4rAZddXmR-Z70od3P3sB84ewo0MmUs2" width="32%" />
+  <img src="https://drive.google.com/uc?export=view&id=122D0aMERp9HtYTTpbaXY6Zf7UEDxl746" width="32%" />
   <img src="https://drive.google.com/uc?export=view&id=1Vix9gbEj2lVN972-eVuCQDhlGXTli7-H" width="32%" />
   <img src="https://drive.google.com/uc?export=view&id=1jFvgIOMmaWGYbMKs_gAriBAu2oyFEXZf" width="32%" />
 </p>
